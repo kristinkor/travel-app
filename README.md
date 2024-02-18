@@ -1,6 +1,6 @@
 # Backroads App
 
-[Working Application - Deployed]([https://kristina-travel-app.netlify.app/])
+[Working Application - Deployed](https://kristina-travel-app.netlify.app/)
 
 - backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
